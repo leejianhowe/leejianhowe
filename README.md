@@ -14,7 +14,7 @@
 
 ---
 
-# 👨🏻‍💻Work experience
+# 👨🏻‍💻 Work experience
 
 ## Full Stack Developer(Trainee)
 
@@ -38,7 +38,7 @@ Worked as Operations Engineer in district cooling plant
 
 ### Javascript/Typescript ⭐️⭐️⭐️
 
-Have used Javascript and Typescript for close to a year. For frontend development on React and Angular. On the backend for APIs with Node and Express. Worked with both SQL(MySql) and NoSQL(MongoDB) database.
+Have used Javascript and Typescript for close to a year. For frontend development on React and Angular. On the backend for APIs with Node and Express. Worked with both SQL(MySql) and NoSQL(MongoDB) databases.
 
 ---
 
@@ -52,8 +52,6 @@ Native speaker
 
 # 📚 Education
 
-## **Bachelor's Degree in Mechanical Engineering (Distinction)**
+## **Bachelor's Degree in Mechanical Engineering (Distinction), _NUS_**
 
-*2017*
-
-Singapore
+*2013-2017*
