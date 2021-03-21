@@ -1,6 +1,6 @@
 # Lee Jian Howe
 
-> I'm a full stack developer based in Singapore🇸🇬. Currently, working as a trainee in a finance institutional. working on React frontend application.
+> I'm a full stack developer based in Singapore🇸🇬. Currently, working as a trainee in a finance institutional. Working on React frontend application.
 
 # ☎️ Contact information
 
