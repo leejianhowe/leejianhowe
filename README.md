@@ -18,7 +18,7 @@
 
 ## Full Stack Developer(Trainee)
 
-Singapore – (Jan 2021 - Present)*
+***DBS**, Singapore - (Jan 2021 - Present)*
 
 Working as Full Stack Developer
 
