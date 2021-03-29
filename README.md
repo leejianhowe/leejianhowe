@@ -8,8 +8,6 @@
 
 📧 [Email address](mailto:jianhowe@gmail.com)
 
-✍🏻 [Github](http://github.com/leejianhowe)
-
 🔗 [LinkedIn](http://linkedin.com/in/jianhowe/)
 
 ---
