@@ -1,6 +1,6 @@
 # Lee Jian Howe
 
-> I'm a full stack developer based in Singapore🇸🇬. Currently, working as a trainee in a finance institutional. Working on React frontend applications.
+> I'm a full stack developer based in Singapore🇸🇬. Currently, working as a trainee in a finance institutional.
 
 # ☎️ Contact information
 
@@ -34,9 +34,21 @@ Worked as Operations Engineer in district cooling plant
 
 ## 💻 Technology
 
-### Javascript/Typescript ⭐️⭐️⭐️
+### Languages ⭐️⭐️⭐️
 
-Have used Javascript and Typescript for close to a year. For frontend development on React and Angular. On the backend for APIs with Node and Express. Worked with both SQL(MySql) and NoSQL(MongoDB) databases.
+Javascript. Typescript 
+
+### Frontend Technologies ⭐️⭐️⭐️
+
+React/Redux. Angular
+
+### Backend Technologies ⭐️⭐️
+
+Nodejs.Express. MySQL. MongoDB
+
+### Other Equally Important Tools
+
+Git. Docker
 
 ---
 
