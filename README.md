@@ -14,11 +14,9 @@
 
 # 👨🏻‍💻 Work experience
 
-## Full Stack Developer(Trainee)
+## Trainee – Technology in Finance Immersion Programme
 
 ***DBS**, Singapore - (Jan 2021 - Present)*
-
-Working as Full Stack Developer
 
 ---
 
