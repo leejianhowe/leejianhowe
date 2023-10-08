@@ -6,8 +6,6 @@
 
 ### Click to find out!
 
-📧 [Email address](mailto:jianhowe@gmail.com)
-
 🔗 [LinkedIn](http://linkedin.com/in/jianhowe/)
 
 ---
