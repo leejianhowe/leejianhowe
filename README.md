@@ -1,10 +1,9 @@
 # Lee Jian Howe
 
-> I'm a full stack developer based in Singapore🇸🇬. Currently, working as a trainee in a financal institution.
+> based in Singapore🇸🇬. 
 
 # ☎️ Contact information
 
-### Click to find out!
 
 🔗 [LinkedIn](http://linkedin.com/in/jianhowe/)
 
@@ -23,28 +22,6 @@
 ***SP Group**, Singapore – (Jul 2017 - Oct 2020)*
 
 Worked as Operations Engineer in district cooling plant
-
----
-
-# 🛠 Skills
-
-## 💻 Technology
-
-### Languages ⭐️⭐️⭐️
-
-Javascript. Typescript 
-
-### Frontend Technologies ⭐️⭐️⭐️
-
-React/Redux. Angular
-
-### Backend Technologies ⭐️⭐️
-
-Nodejs.Express. MySQL. MongoDB
-
-### Other Equally Important Tools
-
-Git. Docker
 
 ---
 
