@@ -1,8 +1,7 @@
 # Lee Jian Howe
+Singapore🇸🇬. 
 
-> based in Singapore🇸🇬. 
-
-# ☎️ Contact information
+# 📱 Socials
 
 
 🔗 [LinkedIn](http://linkedin.com/in/jianhowe/)
@@ -11,17 +10,15 @@
 
 # 👨🏻‍💻 Work experience
 
-## Trainee – Technology in Finance Immersion Programme
+## Frontend Software Engineer
+***TikTok***, Singapore - ( Oct 2022 - Present)
 
-***DBS**, Singapore - (Jan 2021 - Present)*
+## Frontend Developer
+***avanade***, Singapore - ( Apr 2022 - Sep 2022)
 
----
+## Trainee
 
-## Engineer
-
-***SP Group**, Singapore – (Jul 2017 - Oct 2020)*
-
-Worked as Operations Engineer in district cooling plant
+TFIP(***DBS***), Singapore - (Jan 2021 - Mar 2022)
 
 ---
 
